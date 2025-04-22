@@ -1,4 +1,4 @@
-  # Queen-Anita-V3
+  # Anita-V3
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
@@ -12,10 +12,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SEPTORCH29/Queen-Anita-V3?color=blue&style=flat-square"></a>
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SEPTORCH29/Queen-Anita-V3?color=yellow&style=flat-square"></a>
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SEPTORCH29/Queen-Anita-V3?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DavidCyrilTech/Anita-V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DavidCyrilTech/Anita-V3?color=blue&style=flat-square"></a>
+<a href="https://github.com/DavidCyrilTech/Anita-V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DavidCyrilTech/Anita-V3?color=yellow&style=flat-square"></a>
+<a href="https://github.com/DavidCyrilTech/Anita-V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DavidCyrilTech/Anita-V3?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/DavidCyrilTech/Anita-V3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
@@ -24,14 +24,14 @@
 
 
 
-## Queen-Anita-V3 Deployment Methods
+## Anita-V3 Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/SEPTORCH29/Queen-Anita-V3/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DavidCyrilTech/Anita-V3/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://anita-v4-pairing-wumi.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SEPTORCH29/Queen-Anita-V3)**
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DavidCyrilTech/Anita-V3)**
 3. **Deploy on [`RENDER`](https://dashboard.render.com/signup)**
-3. **Deploy on [`KOYEB`](https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FSEPTORCH29&branch=main&name=Queen-Anita-V3&builder=dockerfile&env%5BAUTO_STATUS_REACT=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BPUBLIC%5D=true&env=%5BAUTO_TYPING%5D%3Dfalse&env%5BAUTO_STATUS_VIEW%5D=true)**
+3. **Deploy on [`KOYEB`](https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDavidCyrilTech&branch=main&name=Anita-V3&builder=dockerfile&env%5BAUTO_STATUS_REACT=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BPUBLIC%5D=true&env=%5BAUTO_TYPING%5D%3Dfalse&env%5BAUTO_STATUS_VIEW%5D=true)**
 3. **Deploy on [`TALKDROVE`](https://host.talkdrove.com)**
 3. **Deploy on [`BOT HOSTING PANEL(DISCORD)`](https://bot-hosting.net/?aff=1251693529084723300)**
 3. **Deploy on [`KATBUMP PANEL(DISCORD)`](https://dashboard.katabump.com/auth/login#1ae56c)**
@@ -51,11 +51,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 
 
-- *Queen-Anita-V3 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Anita-V3 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen-Anita-V3 at your own risk by keeping this warning in mind.*
+- *Use Anita-V3 at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/SEPTORCH29/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/DavidCyrilTech/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
