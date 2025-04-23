@@ -14,12 +14,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter the number that is hosting the bot (e.g., 2349066528353)",
-      "value": "2349066528353",
+      "value": "256754399753",
       "required": true
     },
     "OWNER_NUMBERS": {
       "description": "Enter the bot owner's number (e.g., 2349066528353)",
-      "value": "2349066528353",
+      "value": "256754399753",
       "required": true
     },
     "PREFIX": {
@@ -39,7 +39,7 @@
     },
     "PUBLIC": {
       "description": "Set to true to make bot public",
-      "value": "true",
+      "value": "false",
       "required": true
     },
     "UNAVAILABLE": {
